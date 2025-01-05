@@ -11,3 +11,9 @@ let isvalid = (username1) => {
         return true;
     }
 }
+
+let iscorrect = (username1) => {
+    if(username1 == 1){
+        return true;
+    }
+}
